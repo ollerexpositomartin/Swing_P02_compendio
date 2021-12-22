@@ -1,6 +1,7 @@
-# Título del Proyecto
+# Swing_P02_compendio
 
-_Acá va un párrafo que describa lo que es el proyecto_
+Proyecto desarrollado para la asignatura de Desarrollo de interfaces, el cual sera un programa para realizar
+arrendamientos de pisos turisticos por España
 
 ## Comenzando 🚀
 
