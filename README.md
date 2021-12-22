@@ -1,7 +1,7 @@
 # Swing_P02_compendio
 
 Proyecto desarrollado para la asignatura de Desarrollo de interfaces, el cual sera un programa para realizar
-arrendamientos de pisos turisticos por España
+arrendamientos de pisos turisticos por toda España
 
 ## Comenzando 🚀
 
