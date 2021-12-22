@@ -25,7 +25,7 @@ Pasos para la ejecución en Windows atraves del ejecutable y terminal
 
 Para ejecutar en Windows clonamos el repositorio vamos a la carpeta ejecutable y hacemos doble click en el archivo .java 
 
-## Terminal ☄
+### Terminal ☄
 
 Para ejecutar el programa en la terminal abrimos la cmd en el directorio ejecutable y escribimos el siguiente comando
 
@@ -33,17 +33,12 @@ Para ejecutar el programa en la terminal abrimos la cmd en el directorio ejecuta
 PracticaCompendio2.jar
 ```
 
-## Ejecutando las pruebas ⚙️
+## Construido con JAVA ⚡
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+## Version 1.0 📌
 
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
+## Autores 🛠
+Martín Oller Expósito 
 
 ### Y las pruebas de estilo de codificación ⌨️
 
