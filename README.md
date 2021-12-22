@@ -3,9 +3,14 @@
 Proyecto desarrollado para la asignatura de Desarrollo de interfaces, el cual sera un programa para realizar
 arrendamientos de pisos turisticos por toda España
 
-## Comenzando 🚀
+## Contenido del proyecto 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+Un directorio llamado desarrollo en el que incluyas el directorio del proyecto de la práctica.
+Un directorio llamado ejecutable donde incluirás el ejecutable de la aplicación.
+Un directorio llamado documentación técnica donde incluirás el javadoc de la aplicación.
+Un directorio llamado documentos donde incluirás el documento sobre usabilidad.
+README.md
+
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
