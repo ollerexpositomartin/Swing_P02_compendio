@@ -5,10 +5,10 @@ arrendamientos de pisos turisticos por toda España
 
 ### Contenido del proyecto 📚
 
-Un directorio llamado desarrollo en el que incluyas el directorio del proyecto de la práctica.\
-Un directorio llamado ejecutable donde incluirás el ejecutable de la aplicación.\
-Un directorio llamado documentación técnica donde incluirás el javadoc de la aplicación.\
-Un directorio llamado documentos donde incluirás el documento sobre usabilidad.\
+Un directorio llamado desarrollo que incluye el directorio del proyecto de la práctica.\
+Un directorio llamado ejecutable donde que incluye el ejecutable de la aplicación.\
+Un directorio llamado documentación técnica que incluye el javadoc de la aplicación.\
+Un directorio llamado documentos que incluye un documento sobre usabilidad.\
 README.md
 
 ### Desarollo del Proyecto 👾
