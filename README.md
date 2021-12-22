@@ -3,7 +3,7 @@
 Proyecto desarrollado para la asignatura de Desarrollo de interfaces, el cual sera un programa para realizar
 arrendamientos de pisos turisticos por toda España
 
-### Contenido del proyecto 🚀
+### Contenido del proyecto 📚
 
 Un directorio llamado desarrollo en el que incluyas el directorio del proyecto de la práctica.\
 Un directorio llamado ejecutable donde incluirás el ejecutable de la aplicación.\
@@ -11,10 +11,11 @@ Un directorio llamado documentación técnica donde incluirás el javadoc de la 
 Un directorio llamado documentos donde incluirás el documento sobre usabilidad.\
 README.md
 
-### Desarollo 👾
+### Desarollo del Proyecto 👾
 
-_Que cosas necesitas para instalar el software y como instalarlas_
-
+Este proyecto constara de una ventana principal que tendra una barra de menu principal, en la cual se podran acceder a las opciones alta de pisos y baja de pisos,
+la opción de baja de pisos todavia no esta desarrollada, la opcion de alta de pisos abrira una ventana modal en la que se podran rellenar los datos del arrendatario,
+seleccionar los requisitos de piso camas, baños etc..,en esta ventana modal tambien se mostrara el presupuesto final que se le dara al arrendatario para el alquiler del piso 
 
 ### Instalación 🔧
 
