@@ -15,25 +15,23 @@ README.md
 
 Este proyecto constara de una ventana principal que tendra una barra de menu principal, en la cual se podran acceder a las opciones alta de pisos y baja de pisos,
 la opción de baja de pisos todavia no esta desarrollada, la opcion de alta de pisos abrira una ventana modal en la que se podran rellenar los datos del arrendatario,
-seleccionar los requisitos de piso camas, baños etc..,en esta ventana modal tambien se mostrara el presupuesto final que se le dara al arrendatario para el alquiler del piso 
+seleccionar los requisitos del piso camas, baños etc..,en esta ventana modal tambien se mostrara el presupuesto final que se le dara al arrendatario para el alquiler del piso 
 
-### Instalación 🔧
+## Despliegue 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+Pasos para la ejecución en Windows atraves del ejecutable y terminal
 
-_Dí cómo será ese paso_
+### Windows 🌌
+
+Para ejecutar en Windows clonamos el repositorio vamos a la carpeta ejecutable y hacemos doble click en el archivo .java 
+
+## Terminal ☄
+
+Para ejecutar el programa en la terminal abrimos la cmd en el directorio ejecutable y escribimos el siguiente comando
 
 ```
-Da un ejemplo
+PracticaCompendio2.jar
 ```
-
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
 ## Ejecutando las pruebas ⚙️
 
