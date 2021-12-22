@@ -3,7 +3,7 @@
 Proyecto desarrollado para la asignatura de Desarrollo de interfaces, el cual sera un programa para realizar
 arrendamientos de pisos turisticos por toda España
 
-## Contenido del proyecto 🚀
+### Contenido del proyecto 🚀
 
 Un directorio llamado desarrollo en el que incluyas el directorio del proyecto de la práctica.\
 Un directorio llamado ejecutable donde incluirás el ejecutable de la aplicación.\
