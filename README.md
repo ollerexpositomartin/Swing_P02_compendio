@@ -11,10 +11,6 @@ Un directorio llamado documentación técnica donde incluirás el javadoc de la 
 Un directorio llamado documentos donde incluirás el documento sobre usabilidad.
 README.md
 
-
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
 ### Pre-requisitos 📋
 
 _Que cosas necesitas para instalar el software y como instalarlas_
